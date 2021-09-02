@@ -38,7 +38,7 @@ public class MartianAlloysMod implements ModInitializer {
 	public static final Item RUNE_LOYALTY = new Rune(Enchantments.LOYALTY);
 	public static final Item RUNE_MULTISHOT = new Rune(Enchantments.MULTISHOT);
 	public static final Item RUNE_POWER = new Rune(Enchantments.POWER);
-	public static final ITem RUNE_SWEEPING_EGDE = new Rune(Enchantments.SWEEPING_EDGE);
+	public static final Item RUNE_SWEEPING_EGDE = new Rune(Enchantments.SWEEPING_EDGE);
 
 
 
