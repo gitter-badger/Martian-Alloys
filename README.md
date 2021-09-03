@@ -4,7 +4,7 @@
 A Minecraft Fabric mod that adds some alloys.
 
 ![master build status](https://github.com/Martian-Mods/Martian-Alloys/actions/workflows/build.yml/badge.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/martian-mods/martian-alloys/badge)](https://www.codefactor.io/repository/github/martian-mods/martian-alloys)
+[![CodeFactor](https://www.codefactor.io/repository/github/martian-mods/martian-alloys/badge)](https://www.codefactor.io/repository/github/martian-mods/martian-alloys) [![Join the chat at https://gitter.im/Martian-Mods/Martian-Alloys](https://badges.gitter.im/Martian-Mods/Martian-Alloys.svg)](https://gitter.im/Martian-Mods/Martian-Alloys?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Content
 
